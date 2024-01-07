@@ -1,7 +1,7 @@
 
 <br />
   <a href="https://github.com/othneildrew/Best-README-Template">
-  <h1 align="center">HobbyHorseTours Compose Android App</h1>
+  <h1 align="center">Hotel Tours Compose Android App</h1>
   
   [![License](https://badgen.net/badge/License/Apache/blue/)](https://opensource.org/licenses/Apache-2.0)
   ![MinAPI](https://badgen.net/badge/MinAPI/23/green/)
@@ -98,7 +98,7 @@ This project uses many of the popular libraries, plugins and tools of the androi
 ## 👩‍💻 Contribution
 
 All contributions are welcomed. Feel free to open PR. If you've found an error in this sample, please file an issue:</br>
-<https://github.com/Rushi/HobbyHorseToursMobileApp/issues>
+[<https://github.com/Rushi/Hotel Tours/issues>](https://github.com/RushiChavan-dev/HotelApp/issues)
 </br>
 PRs are encouraged.
   
