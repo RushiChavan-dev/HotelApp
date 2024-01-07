@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">HobbyHorseTours</string>
+
+    <string name="home_screen_title">Home</string>
+    <string name="characters_screen_title">Characters</string>
+    <string name="character_detail_screen_title">Detail</string>
+    <string name="character_detail_card_name">Name</string>
+    <string name="character_detail_card_species">Species</string>
+
+    <string name="character_detail_card_gender">Gender</string>
+    <string name="character_detail_card_last_know_location">Last Know Location</string>
+    <string name="character_detail_card_location">Location</string>
+    <string name="episodes_screen_title">Episodes</string>
+    <string name="episodes_cities_title">Cities</string>
+
+    <string name="episodes_travel_style_title">Travel Style</string>
+    <string name="episodes_destinations_title">Destinations</string>
+    <string name="episodes_hotels_title">Hotels</string>
+    <string name="favorite_screen_title">Favorites</string>
+    <string name="favorite_screen_empty_list_text">You haven\'t added\nany favorites yet</string>
+
+    <string name="empty_screen_empty_list_text">Sorry!\nunable to connect to the server at the moment\nclick to refresh</string>
+    <string name="not_logged_in_screen_empty_list_text">Sorry!\nyou are not logged In \nClick to login or to sign up</string>
+    <string name="booking_screen_empty_list_text">You haven\'t added\nany bookings yet</string>
+
+    <!--- Popular -->
+    <string name="popular_screen_title">Popular</string>
+
+    <!--- Profile -->
+    <string name="profile_screen_title">My Profile</string>
+
+    <!--- Settings -->
+    <string name="settings_screen_title">Settings</string>
+    <string name="settings_dark_theme">Dark Theme</string>
+    <string name="settings_screen_app_version_title">App Version</string>
+
+    <!--- Bookings -->
+    <string name="booking_screen_title">Bookings</string>
+    <string name="booking_now_screen_title">Book Now</string>
+
+    <!--- Search -->
+    <string name="search_screen_title">Search Destinations and Hotels</string>
+    <string name="search_modal_title">Filter</string>
+    <string name="search_modal_city_title">City</string>
+    <string name="search_modal_travelstyle_title">Travel Style</string>
+    <string name="search_modal_button_text">Apply</string>
+
+    <string name="googlee_cloud_server_client_idd" translatable="false">565444776466-cr00h819jsoagvkbskcd4gf0tmg3u5es.apps.googleusercontent.com</string>
+    <string name="google_cloud_server_client_id" translatable="false">565444776466-pfkomure3omqff6mhtk90vsac5vje94c.apps.googleusercontent.com</string>
+    <string name="you_are_offline">You are offline!</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_should_be_at_least_6_characters">Password should be at least 6 characters!</string>
+    <string name="not_a_valid_email">Not a valid Email!</string>
+    <string name="passwords_do_not_match">Passwords don\'t match!</string>
+    <string name="recover_your_account">Recover your Account</string>
+
+    <string name="click_label_select">select</string>
+    <string name="state_descr_selected">Selected</string>
+    <string name="state_descr_not_selected">Not selected</string>
+    <string name="cd_done">Done</string>
+    <string name="cd_back">Back</string>
+    <string name="calendar_select_dates_title">Select Dates</string>
+    <string name="input_select_location">Select Location</string>
+    <string name="input_select_time">Select Time</string>
+    <string name="select_destination_hint">Choose Destination</string>
+    <string name="select_destination_to_caption">To</string>
+    <string name="select_dates">Select Dates</string>
+    <string name="error_max_people">Error: We don\'t support more than %d people</string>
+    <plurals name="number_adults_selected">
+        <item quantity="one"> %d Adult%s</item>
+        <item quantity="other"> %d Adults%s</item>
+        <item quantity="two"> %d Adults%s</item>
+        <item quantity="many"> %d Adults%s</item>
+    </plurals>
+    <plurals name="number_children_selected">
+        <item quantity="one"> %d Child%s</item>
+        <item quantity="other"> %d Children%s</item>
+        <item quantity="two"> %d Children%s</item>
+        <item quantity="many"> %d Children%s</item>
+    </plurals>
+    <plurals name="number_rooms_selected">
+        <item quantity="one"> %d Room%s</item>
+        <item quantity="other"> %d Rooms%s</item>
+        <item quantity="two"> %d Rooms%s</item>
+        <item quantity="many"> %d Rooms%s</item>
+    </plurals>
+
+</resources>
