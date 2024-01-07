@@ -28,7 +28,7 @@
   * [Architecture](#architecture)
 * [Features](#features)
 * [Environment Setup](#requirements)
-* [Contact](#contact)
+
 
   <!-- ABOUT THE PROJECT -->
 ## About The Project
